@@ -1,0 +1,41 @@
+/* ----------------------------------------------- "responsive.css"  ------------------------------------------------- */
+/*Mobile*/
+@media screen and (max-width: 434px) {
+   .head_icon {
+      margin: 12px 5px 10px 0;
+      float: left;
+      width: 10%;
+   }
+   .head_title {
+      float: left;
+   }
+   .head_name {
+      font-size: 1.5em;
+   }
+   .head_desc {
+      font-size: .75em;
+      margin-bottom: 10px;
+   }
+   .ft_title {
+      margin: 0 auto 10px;
+      width: 100%;
+      text-align: center;
+      font-size: 1em;
+   }
+   hr {
+      height: 2px;
+   }
+}
+/*Tablet/Medium*/
+@media screen and (min-width: 420px) and (max-width: 849px) {
+   .feat_work div {
+       flex: 1 33.3333%;
+   }
+}
+/*Desktop/Large*/
+@media screen and (min-width: 850px) {
+   body {
+      max-width: 900px;
+      margin: 0 auto;
+   }
+}

@@ -1,0 +1,84 @@
+@import url("My_Fonts.css");
+@import url("Responsiveness.css");
+@import url("Gallery.css");
+
+/*GENERAL*/
+* {
+   box-sizing: border-box;
+}
+body {
+   display: flex;
+   flex-wrap: wrap;
+   font: normal 300 1.25em/1.15em ;
+   max-width: 80%;
+   background: #EEFFFF;
+}
+/*Header/Nav*/
+header {
+   float: left;
+   margin: 0 0 15px 0;
+   padding: 5px 0 0 0;
+   width: 100%;
+}
+.head_logo {
+   float: left;
+   height:70px; 
+   width: 60px;
+   max-width: 20%;
+   min-width: 36px;
+   margin: 27px auto;
+   color: #02b3e4;
+}
+.head_title {
+   float: left;
+   text-align: right;
+   width: 100%;
+}
+.head_name {
+   color: #2d3c49;
+   font: normal 300 3em/1em defused;
+   margin: 20px auto 10px;
+}
+.head_description {
+   font: normal 600 2em/0em italian;
+   margin: 5px auto 20px;
+}
+hr{
+   background-color: #7d97ad;
+   border: 0;
+   height: 4px;
+   width: 100%;
+}
+
+/*Landing Pad*/
+.basket_cat {
+   width: 100%;
+   margin: 0 auto 0px;
+}
+.feat_work {
+   width: 100%;
+   float: left;
+   margin: 0 auto 8px;
+}
+.feature_title {
+   font: normal 400 3em/1em FerroRosso;
+   color: #7d97ad;
+   margin: 20px auto 5px 5px;
+}
+/*Footer*/
+footer {
+   width: 100%;
+}
+a{
+   color: rgba(128, 140, 173, 0.9);
+}
+.credits {
+   font: normal 300 .9em/1em serif;
+   text-align: center;
+   color: rgba(184, 160, 177, 0.8);
+   width: 100%;
+   margin: 20% auto 5px;
+}
+h4{
+	font-weight: normal;
+}

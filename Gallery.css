@@ -1,0 +1,31 @@
+/**********Gallery**********/
+.feat_work {
+   display: -webkit-box;
+   display: -moz-box;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   flex-flow: row wrap;
+   margin: 0px;
+}
+.feat_work img {
+   width: 100%;
+}
+.cafe {
+   order: 0;
+}
+.cat{
+   order: 1;
+}
+.roaster{
+   order: 2;
+}
+.feat_work div {
+   flex: 0 0 30%;
+   margin: 5px;
+   font: normal 300 2em/1em Arista;
+}
+.feat_work div:last-child {
+}
+.feat_work div:first-child {
+}
