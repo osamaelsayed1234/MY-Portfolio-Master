@@ -16,4 +16,4 @@ contain the **featured**:octocat: work and all of its' related data such **Link*
 
 
 
-**for more ART work,Logos & images** you can visit [pinterest](https://www.pinterest.com/) also you can follow me on [Facebook](https://www.facebook.com/hazem.khaled.3386585) 
+**for more ART work,Logos & images** you can visit [pinterest](https://www.pinterest.com/) also you can follow me on [Facebook](ps://www.facebook.com/osamaalsayed.algarhy ) 
